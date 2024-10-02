@@ -1,6 +1,6 @@
 # grocery
 
-A new Flutter project.
+Latihan UI flutter 
 
 ## Getting Started
 
